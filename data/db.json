@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "title": "William Henry Perkin",
+    "topic": "science",
+    "level": "Band 7.0",
+    "source": "Cambridge IELTS 9, Test 1, Reading Passage 1",
+    "content": "William Henry Perkin's discovery of the first synthetic dye in 1856 revolutionized the textile industry. The eighteen-year-old chemistry student accidentally created mauveine while attempting to synthesize quinine. This discovery not only made Perkin wealthy but also laid the foundation for the modern chemical industry, leading to developments in pharmaceuticals, photography, and food production.",
+    "keywords": ["chemistry", "synthetic dye", "innovation", "industrial revolution"]
+  },
+  {
+    "id": 2,
+    "title": "Is There Anybody Out There?",
+    "topic": "astronomy",
+    "level": "Band 7.5",
+    "source": "Cambridge IELTS 9, Test 1, Reading Passage 2",
+    "content": "The search for extraterrestrial intelligence (SETI) has captivated scientists for decades. Using radio telescopes to scan the cosmos for signals, researchers hope to detect evidence of technologically advanced civilizations. The Drake Equation attempts to estimate the number of detectable civilizations in our galaxy, considering factors like star formation rates and the probability of life developing intelligence.",
+    "keywords": ["SETI", "extraterrestrial", "radio telescope", "Drake Equation", "astronomy"]
+  },
+  {
+    "id": 3,
+    "title": "The History of the Tortoise",
+    "topic": "biology",
+    "level": "Band 8.0",
+    "source": "Cambridge IELTS 9, Test 1, Reading Passage 3",
+    "content": "Tortoises represent one of evolution's most successful experiments in longevity. Some species can live over 150 years, with their slow metabolism and protective shells contributing to exceptional lifespans. The giant tortoises of the Galápagos Islands played a crucial role in Darwin's theory of evolution, as variations between islands demonstrated natural selection in action.",
+    "keywords": ["tortoise", "evolution", "longevity", "Galápagos", "Darwin"]
+  },
+  {
+    "id": 4,
+    "title": "The Steam Engine",
+    "topic": "technology",
+    "level": "Band 7.0",
+    "source": "Cambridge IELTS 10, Test 3, Reading Passage 1",
+    "content": "The development of the steam engine transformed human civilization during the Industrial Revolution. James Watt's improvements to Newcomen's design in the 1760s made steam power practical for manufacturing and transportation. Steam engines enabled factories to operate independently of water power, railways to connect distant cities, and ships to travel across oceans regardless of wind conditions.",
+    "keywords": ["steam engine", "Industrial Revolution", "James Watt", "manufacturing", "transportation"]
+  },
+  {
+    "id": 5,
+    "title": "European Transport Systems",
+    "topic": "transport",
+    "level": "Band 7.5",
+    "source": "Cambridge IELTS 10, Test 3, Reading Passage 2",
+    "content": "Modern European transport infrastructure faces the challenge of balancing economic growth with environmental sustainability. High-speed rail networks have reduced short-haul flight demand, while urban congestion pricing schemes aim to decrease private vehicle use. The integration of cycling infrastructure and public transportation represents a shift toward multi-modal transport systems designed to reduce carbon emissions.",
+    "keywords": ["transport", "infrastructure", "sustainability", "rail", "urban planning"]
+  },
+  {
+    "id": 6,
+    "title": "The Psychology of Innovation",
+    "topic": "psychology",
+    "level": "Band 8.0",
+    "source": "Cambridge IELTS 11, Test 2, Reading Passage 3",
+    "content": "Innovation requires not just creativity but also the psychological resilience to overcome repeated failures. Research shows that innovative thinkers possess certain cognitive traits: tolerance for ambiguity, willingness to take risks, and ability to make remote associations between concepts. Organizations fostering innovation must create environments where experimentation is encouraged and failure is treated as a learning opportunity rather than a career-ending mistake.",
+    "keywords": ["innovation", "psychology", "creativity", "cognitive traits", "organizational culture"]
+  },
+  {
+    "id": 7,
+    "title": "The Impact of Climate Change on Agriculture",
+    "topic": "environment",
+    "level": "Band 8.5",
+    "source": "Cambridge IELTS 12, Test 5, Reading Passage 3",
+    "content": "Climate change poses unprecedented challenges to global food security. Rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events threaten crop yields worldwide. While some regions may initially benefit from longer growing seasons, most agricultural areas face declining productivity. Adaptation strategies include developing drought-resistant crop varieties, improving irrigation efficiency, and shifting cultivation to more suitable latitudes.",
+    "keywords": ["climate change", "agriculture", "food security", "adaptation", "sustainability"]
+  },
+  {
+    "id": 8,
+    "title": "The Rise of Artificial Intelligence",
+    "topic": "technology",
+    "level": "Band 8.0",
+    "source": "Cambridge IELTS 14, Test 2, Reading Passage 2",
+    "content": "Artificial intelligence has progressed from theoretical concept to practical reality, transforming industries from healthcare to finance. Machine learning algorithms can now diagnose diseases, predict market trends, and drive vehicles autonomously. However, the rapid advancement raises ethical concerns about job displacement, algorithmic bias, and the need for regulatory frameworks to ensure AI systems align with human values.",
+    "keywords": ["artificial intelligence", "machine learning", "automation", "ethics", "technology"]
+  },
+  {
+    "id": 9,
+    "title": "Ancient Megaliths",
+    "topic": "archaeology",
+    "level": "Band 7.5",
+    "source": "Cambridge IELTS 13, Test 3, Reading Passage 1",
+    "content": "Megalithic structures like Stonehenge have fascinated archaeologists for centuries. These massive stone monuments, built without modern tools or technology, demonstrate sophisticated engineering knowledge and social organization. Recent discoveries suggest that many megaliths served as astronomical observatories, aligning with solstices and equinoxes, indicating advanced understanding of celestial movements among prehistoric societies.",
+    "keywords": ["megaliths", "archaeology", "Stonehenge", "ancient technology", "astronomy"]
+  },
+  {
+    "id": 10,
+    "title": "Ocean Plastic Pollution",
+    "topic": "environment",
+    "level": "Band 8.0",
+    "source": "Cambridge IELTS 15, Test 1, Reading Passage 3",
+    "content": "Plastic pollution has reached crisis levels in the world's oceans, with an estimated 8 million tonnes entering marine environments annually. Microplastics have been detected in the deepest ocean trenches and in the bodies of marine organisms throughout the food chain. Solutions require both technological innovation in biodegradable materials and fundamental changes in consumption patterns, waste management infrastructure, and international policy coordination.",
+    "keywords": ["plastic pollution", "ocean", "microplastics", "environmental crisis", "sustainability"]
+  },
+  {
+    "id": 11,
+    "title": "The Development of Museums",
+    "topic": "culture",
+    "level": "Band 7.0",
+    "source": "Cambridge IELTS 8, Test 3, Reading Passage 1",
+    "content": "Museums have evolved from private collections of the wealthy to public institutions serving educational and cultural preservation roles. The concept of the modern museum emerged during the Enlightenment, emphasizing accessibility and education. Today's museums face challenges in balancing traditional curatorial roles with digital engagement, interactive exhibits, and community outreach programs while maintaining their core mission of preserving cultural heritage.",
+    "keywords": ["museums", "cultural heritage", "education", "public access", "curation"]
+  },
+  {
+    "id": 12,
+    "title": "The Zebra's Stripes",
+    "topic": "biology",
+    "level": "Band 7.5",
+    "source": "Cambridge IELTS 10, Test 2, Reading Passage 1",
+    "content": "Scientists have debated the purpose of zebra stripes for over a century. Recent research suggests multiple functions: disrupting biting fly attacks, thermoregulation through air convection, and social recognition among herd members. The most compelling evidence shows that stripes confuse biting flies' visual systems, reducing disease transmission. This discovery has implications for pest control and even clothing design in tropical regions.",
+    "keywords": ["zebra", "evolution", "animal behavior", "adaptation", "biology"]
+  },
+  {
+    "id": 13,
+    "title": "Roman Shipbuilding and Navigation",
+    "topic": "history",
+    "level": "Band 8.0",
+    "source": "Cambridge IELTS 11, Test 1, Reading Passage 2",
+    "content": "Roman maritime engineering represented a pinnacle of ancient technology. Their ships combined Greek hull designs with innovative construction techniques, enabling Mediterranean trade networks to flourish. Navigation relied on coastal landmarks, celestial observations, and accumulated knowledge passed through generations. Archaeological evidence from shipwrecks reveals sophisticated cargo handling systems and the economic complexity of Roman maritime commerce.",
+    "keywords": ["Roman Empire", "maritime technology", "navigation", "archaeology", "ancient history"]
+  },
+  {
+    "id": 14,
+    "title": "The Flavor of Pleasure",
+    "topic": "neuroscience",
+    "level": "Band 8.5",
+    "source": "Cambridge IELTS 12, Test 6, Reading Passage 3",
+    "content": "Neuroscience research reveals that taste perception involves complex interactions between sensory receptors, brain chemistry, and learned associations. The pleasure derived from food activates reward pathways similar to those triggered by social bonding or achievement. Cultural factors significantly influence taste preferences, demonstrating the brain's remarkable plasticity. Understanding these mechanisms has implications for addressing obesity, eating disorders, and food security challenges.",
+    "keywords": ["neuroscience", "taste", "brain", "perception", "psychology"]
+  },
+  {
+    "id": 15,
+    "title": "The History of Glass",
+    "topic": "technology",
+    "level": "Band 7.0",
+    "source": "Cambridge IELTS 9, Test 2, Reading Passage 1",
+    "content": "Glass production dates back over 4,000 years to ancient Mesopotamia. The material revolutionized architecture, enabling larger windows and transforming interior spaces with natural light. Modern glass technology includes innovations like safety glass, optical fibers, and touchscreen displays. The material's versatility, combining transparency with structural strength, continues to drive technological advancement in fields from telecommunications to renewable energy.",
+    "keywords": ["glass", "materials science", "innovation", "architecture", "technology"]
+  },
+  {
+    "id": 16,
+    "title": "Attitudes to Language",
+    "topic": "linguistics",
+    "level": "Band 7.5",
+    "source": "Cambridge IELTS 9, Test 3, Reading Passage 2",
+    "content": "Linguistic attitudes shape how languages evolve and which varieties gain prestige. Sociolinguists study how factors like education, social class, and geographical origin influence perceptions of 'correct' language use. These attitudes affect language policy, education systems, and even employment opportunities. Understanding linguistic prejudice helps address discrimination while recognizing that all language varieties are equally valid systems of communication.",
+    "keywords": ["linguistics", "sociolinguistics", "language attitudes", "dialect", "communication"]
+  },
+  {
+    "id": 17,
+    "title": "The Secret of Staying Young",
+    "topic": "health",
+    "level": "Band 8.0",
+    "source": "Cambridge IELTS 10, Test 4, Reading Passage 3",
+    "content": "Research into human longevity reveals that genetics accounts for only 25% of lifespan variation; lifestyle factors dominate. Regular physical activity, stress management, social connections, and purposeful engagement contribute significantly to healthy aging. Studies of centenarians worldwide identify common patterns: moderate caloric intake, plant-based diets, strong community ties, and maintained physical activity throughout life. These findings challenge assumptions about inevitable decline with age.",
+    "keywords": ["longevity", "aging", "health", "lifestyle", "centenarians"]
+  },
+  {
+    "id": 18,
+    "title": "Environmental Problems and Solutions",
+    "topic": "environment",
+    "level": "Band 7.5",
+    "source": "Cambridge IELTS 11, Test 3, Reading Passage 1",
+    "content": "Contemporary environmental challenges require integrated solutions addressing interconnected systems. Deforestation, biodiversity loss, and climate change cannot be solved in isolation. Successful approaches combine technological innovation, policy reform, and grassroots community action. Examples include ecosystem-based adaptation, circular economy models, and renewable energy transitions. These solutions demonstrate that environmental protection and economic development need not be mutually exclusive.",
+    "keywords": ["environment", "sustainability", "conservation", "climate action", "biodiversity"]
+  },
+  {
+    "id": 19,
+    "title": "The Birth of Scientific English",
+    "topic": "linguistics",
+    "level": "Band 8.5",
+    "source": "Cambridge IELTS 12, Test 7, Reading Passage 3",
+    "content": "The emergence of English as the language of science represents a significant shift in global academic communication. During the 17th century, Latin dominated scientific discourse, but vernacular languages gradually gained acceptance. English's rise accelerated post-World War II, driven by American scientific leadership and practical advantages. This linguistic dominance raises questions about accessibility, cognitive diversity in research, and the potential loss of concepts unique to other languages.",
+    "keywords": ["scientific communication", "English language", "academic discourse", "globalization", "linguistics"]
+  },
+  {
+    "id": 20,
+    "title": "The Intersection of Business and Biodiversity",
+    "topic": "business",
+    "level": "Band 8.0",
+    "source": "Cambridge IELTS 13, Test 2, Reading Passage 3",
+    "content": "Corporate recognition of biodiversity's economic value is transforming business practices. Ecosystem services—from pollination to water purification—underpin global economies worth trillions annually. Progressive companies now integrate natural capital accounting, recognizing that environmental degradation threatens long-term profitability. This paradigm shift drives investment in conservation, sustainable supply chains, and nature-based solutions, demonstrating that protecting biodiversity aligns with sound business strategy.",
+    "keywords": ["business", "biodiversity", "ecosystem services", "sustainability", "corporate responsibility"]
+  },
+  {
+    "id": 21,
+    "title": "Tea and Industrial Revolution",
+    "topic": "history",
+    "level": "Band 7.0",
+    "source": "Cambridge IELTS 8, Test 1, Reading Passage 2",
+    "content": "Tea consumption played an unexpected role in Britain's Industrial Revolution. The beverage required boiling water, inadvertently reducing waterborne diseases in urban populations. Tea breaks provided structured rest periods for factory workers, improving productivity. The demand for tea drove colonial expansion and trade route development, while taxation of tea imports funded infrastructure projects. This seemingly simple commodity thus intertwined with transformative economic and social changes.",
+    "keywords": ["tea", "Industrial Revolution", "social history", "trade", "public health"]
+  },
+  {
+    "id": 22,
+    "title": "The Power of Play in Early Childhood",
+    "topic": "education",
+    "level": "Band 7.5",
+    "source": "Cambridge IELTS 14, Test 3, Reading Passage 2",
+    "content": "Neuroscience confirms what educators have long observed: play is fundamental to child development. Through play, children develop executive functions, emotional regulation, and social skills. Free play, in particular, fosters creativity and problem-solving abilities that structured activities cannot replicate. Educational systems increasingly recognize that academic pressure in early childhood may undermine the very cognitive development it aims to enhance, leading to renewed emphasis on play-based learning.",
+    "keywords": ["early childhood", "education", "child development", "play-based learning", "neuroscience"]
+  },
+  {
+    "id": 23,
+    "title": "The Impact of Social Media on Democracy",
+    "topic": "politics",
+    "level": "Band 8.5",
+    "source": "Cambridge IELTS 15, Test 3, Reading Passage 3",
+    "content": "Social media platforms have fundamentally altered democratic discourse and political participation. While enabling unprecedented citizen engagement and information access, these technologies also facilitate misinformation spread, political polarization, and foreign interference in elections. The algorithmic curation of content creates echo chambers, reinforcing existing beliefs rather than encouraging deliberation. Addressing these challenges requires balancing free expression with platform accountability and digital literacy education.",
+    "keywords": ["social media", "democracy", "politics", "misinformation", "digital communication"]
+  },
+  {
+    "id": 24,
+    "title": "Rainforest Preservation",
+    "topic": "environment",
+    "level": "Band 7.5",
+    "source": "Cambridge IELTS 13, Test 1, Reading Passage 2",
+    "content": "Tropical rainforests contain over half of Earth's terrestrial biodiversity despite covering only 6% of land surface. Their preservation is critical for climate regulation, water cycles, and maintaining genetic diversity for future agriculture and medicine. Effective conservation strategies must address both immediate threats like logging and underlying drivers including poverty and weak governance. Indigenous land rights recognition has proven particularly effective, as traditional stewardship often surpasses formal protected area management.",
+    "keywords": ["rainforest", "conservation", "biodiversity", "indigenous peoples", "climate"]
+  },
+  {
+    "id": 25,
+    "title": "The Science of Happiness",
+    "topic": "psychology",
+    "level": "Band 8.0",
+    "source": "Cambridge IELTS 14, Test 1, Reading Passage 3",
+    "content": "Positive psychology research identifies key factors contributing to sustained well-being. Contrary to intuition, happiness correlates weakly with wealth beyond basic needs being met. Strong relationships, meaningful work, physical health, and sense of purpose show more robust associations with life satisfaction. Practices like gratitude journaling, acts of kindness, and mindfulness meditation demonstrate measurable effects on subjective well-being, suggesting happiness involves learnable skills rather than fixed traits.",
+    "keywords": ["happiness", "positive psychology", "well-being", "mental health", "life satisfaction"]
+  }
+]
